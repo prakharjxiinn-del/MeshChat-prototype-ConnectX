@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project architecture
+
+- Keep the MeshChat preview as a client-side web prototype with simulated nearby peers and local-only chat state; the product PRD targets native Android BLE, which this web preview cannot provide.
