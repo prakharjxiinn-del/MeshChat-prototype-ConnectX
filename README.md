@@ -189,6 +189,8 @@ Whether you're travelling, in remote locations, experiencing network outages, or
 
 **Communication should not always require the internet.**
 
+## PREVIEW 🍕:
+https://id-preview--c5c5fc67-fa0c-475d-a3d5-58fa5015e206.lovable.app/?__lovable_receipt=mat_5x75s17crp892t40x25zp012k8
 ---
 
 <p align="center">
